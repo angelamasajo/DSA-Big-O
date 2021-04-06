@@ -1,3 +1,3 @@
-#DSA-Big-O Notation
+# DSA-Big-O Notation
 
 Thinkful Assignment
